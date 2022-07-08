@@ -1,3 +1,12 @@
-<php
+<?php
+$title = 'Accueil';
+require_once 'layout/header.php'; ?>
 
-echo hello world
+
+
+
+
+
+
+
+<?php require_once 'layout/footer.php'; ?>
